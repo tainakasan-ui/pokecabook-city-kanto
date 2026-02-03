@@ -10,7 +10,7 @@ import streamlit as st
 CACHE_JSON = Path("kanto_images.json")
 PREFS_KANTO = ["東京", "神奈川", "千葉", "埼玉", "茨城", "栃木", "群馬"]
 
-# 表示用ラベル（順番や番号は気にしない）
+# 表示用ラベル（順番や番号は気にしない派）
 RANK_LABELS = [
     "1位",
     "2位",
@@ -22,7 +22,7 @@ RANK_LABELS = [
     "ベスト8",
 ]
 
-DEFAULT_LIMIT = 100  # 通常表示の上限
+DEFAULT_LIMIT = 100  # 通常表示の上限（重くならないため）
 
 
 # =========================
@@ -53,10 +53,9 @@ def load_items(_mtime: float) -> list[dict]:
 # =========================
 def main():
     st.set_page_config(page_title="関東シティリーグ Top8", layout="wide")
-
     st.title("関東シティリーグ Top8（見る専）")
 
-    # ---- 注意書き ----
+    # ---- 注意書き（文ごとに改行）----
     st.info(
         "\n\n".join([
             "⚠️ 記事内に **Top8画像が存在しない店舗は表示されません**",
@@ -165,13 +164,24 @@ def main():
                 st.info("画像がありません。")
                 continue
 
-            left, right = st.columns(2)
-            for i, url in enumerate(imgs):
-                label = RANK_LABELS[i] if i < len(RANK_LABELS) else ""
-                target = left if i % 2 == 0 else right
-                if label:
-                    target.markdown(f"**{label}**")
-                target.image(url, use_container_width=True)
+            # ★スマホでも順番が崩れないように「行」で左右表示（(0,1),(2,3)...）
+            for i in range(0, len(imgs), 2):
+                col_left, col_right = st.columns(2)
+
+                # 左（i枚目）
+                url_left = imgs[i]
+                label_left = RANK_LABELS[i] if i < len(RANK_LABELS) else ""
+                if label_left:
+                    col_left.markdown(f"**{label_left}**")
+                col_left.image(url_left, use_container_width=True)
+
+                # 右（i+1枚目）があるときだけ
+                if i + 1 < len(imgs):
+                    url_right = imgs[i + 1]
+                    label_right = RANK_LABELS[i + 1] if (i + 1) < len(RANK_LABELS) else ""
+                    if label_right:
+                        col_right.markdown(f"**{label_right}**")
+                    col_right.image(url_right, use_container_width=True)
 
 
 if __name__ == "__main__":
