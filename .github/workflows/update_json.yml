@@ -1,7 +1,10 @@
-name: update json (manual test)
+name: update kanto_images.json
 
 on:
   workflow_dispatch:
+  schedule:
+    # 毎日 21:00 JST（= 12:00 UTC）
+    - cron: "0 12 * * *"
 
 permissions:
   contents: write
