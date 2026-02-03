@@ -10,7 +10,6 @@ import streamlit as st
 CACHE_JSON = Path("kanto_images.json")
 PREFS_KANTO = ["東京", "神奈川", "千葉", "埼玉", "茨城", "栃木", "群馬"]
 
-# 表示用ラベル（順番や番号は気にしない派）
 RANK_LABELS = [
     "1位",
     "2位",
@@ -55,22 +54,42 @@ def main():
     st.set_page_config(page_title="関東シティリーグ Top8", layout="wide")
     st.title("関東シティリーグ Top8（見る専）")
 
+    # ---- sidebar ----
+    st.sidebar.header("操作 / 絞り込み")
+
+    # ★手動リロード（キャッシュを消して読み直す）
+    # これで「古いの掴んでる？」をユーザー側で自力復旧できる
+    if st.sidebar.button("データを再読み込み（重い時あり）"):
+        st.cache_data.clear()
+        st.rerun()
+
+    pref_selected = st.sidebar.multiselect(
+        "都道府県",
+        options=PREFS_KANTO,
+        default=PREFS_KANTO,
+    )
+
+    show_all = st.sidebar.checkbox(
+        f"すべて表示（通常は最大{DEFAULT_LIMIT}件）",
+        value=False
+    )
+
     # ---- 注意書き（文ごとに改行）----
     st.info(
         "\n\n".join([
             "⚠️ 記事内に **Top8画像が存在しない店舗は表示されません**",
-            "⚠️ 表示が古い場合は、**ページ再読み込み（R / F5）** をしてください",
+            "⚠️ 表示が古い場合は、右の **「データを再読み込み」** を押すか、ページ再読み込み（R / F5）をしてください",
             "✅ 本ページは **ポケカブックさん** から **直近14日分** の **関東** のシティリーグ記事を抽出しています",
             "✅ データ更新は **1日1回 自動で行われます**",
         ])
     )
 
     # ---- JSONロード ----
-    items = load_items(json_mtime())
+    mtime = json_mtime()
+    items = load_items(mtime)
 
     if not items:
         st.warning("kanto_images.json が見つからないか、空です。")
-        st.info("まずローカルで update_json.py を実行して JSON を作ってください。")
         return
 
     # ---- 表示期間：直近14日 ----
@@ -89,25 +108,16 @@ def main():
     except ValueError:
         latest_str = "不明"
 
+    # ★JSON最終更新（mtime表示）
+    json_updated_str = (
+        datetime.fromtimestamp(mtime).strftime("%Y-%m-%d %H:%M:%S")
+        if mtime > 0 else "不明"
+    )
+
     st.caption(
         f"表示期間：{since.strftime('%Y-%m-%d')} 〜 {until.strftime('%Y-%m-%d')}（直近14日）｜"
-        f"記事の最新確認日：{latest_str}"
-    )
-
-    # =========================
-    # sidebar（絞り込み）
-    # =========================
-    st.sidebar.header("絞り込み")
-
-    pref_selected = st.sidebar.multiselect(
-        "都道府県",
-        options=PREFS_KANTO,
-        default=PREFS_KANTO,
-    )
-
-    show_all = st.sidebar.checkbox(
-        f"すべて表示（通常は最大{DEFAULT_LIMIT}件）",
-        value=False
+        f"記事の最新確認日：{latest_str}｜"
+        f"JSON最終更新：{json_updated_str}"
     )
 
     # =========================
@@ -155,7 +165,7 @@ def main():
         d = x.get("article_date", "")
         imgs = (x.get("images_top8") or [])[:8]
 
-        header = f"{title}｜{d}"
+        header = f"{title}（{x.get('pref','')}）｜{d}"
 
         with st.expander(header, expanded=False):
             st.markdown(f"**ページ：** {page}")
@@ -168,14 +178,12 @@ def main():
             for i in range(0, len(imgs), 2):
                 col_left, col_right = st.columns(2)
 
-                # 左（i枚目）
                 url_left = imgs[i]
                 label_left = RANK_LABELS[i] if i < len(RANK_LABELS) else ""
                 if label_left:
                     col_left.markdown(f"**{label_left}**")
                 col_left.image(url_left, use_container_width=True)
 
-                # 右（i+1枚目）があるときだけ
                 if i + 1 < len(imgs):
                     url_right = imgs[i + 1]
                     label_right = RANK_LABELS[i + 1] if (i + 1) < len(RANK_LABELS) else ""
