@@ -1,6 +1,6 @@
 [
   {
-    "article_date": "2026-02-03",
+    "article_date": "2026-02-04",
     "page": "https://pokecabook.com/archives/290164",
     "title": "青馬堂矢向店（神奈川）",
     "pref": "神奈川",
@@ -18,7 +18,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-02-03",
+    "article_date": "2026-02-04",
     "page": "https://pokecabook.com/archives/290164",
     "title": "バトロコ　柏駅前（千葉）",
     "pref": "千葉",
@@ -31,6 +31,24 @@
       "https://pokecabook.com/wp-content/uploads/1_6_Ffk5kf-QKcBem-FkFkb5.jpg",
       "https://pokecabook.com/wp-content/uploads/1_7_FVkbFV-8Gqv5S-kkwVvF.jpg",
       "https://pokecabook.com/wp-content/uploads/1_8_8YG8xc-kOqf8Y-888cxY.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-02-04",
+    "page": "https://pokecabook.com/archives/290164",
+    "title": "Card Secret（東京）",
+    "pref": "東京",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/01-5.jpg",
+      "https://pokecabook.com/wp-content/uploads/02-8.jpg",
+      "https://pokecabook.com/wp-content/uploads/03-4.jpg",
+      "https://pokecabook.com/wp-content/uploads/04-4.jpg",
+      "https://pokecabook.com/wp-content/uploads/05-2.jpg",
+      "https://pokecabook.com/wp-content/uploads/06-2.jpg",
+      "https://pokecabook.com/wp-content/uploads/07-2.jpg",
+      "https://pokecabook.com/wp-content/uploads/08-2.jpg"
     ],
     "images_found": 16,
     "dup_same_page": false
