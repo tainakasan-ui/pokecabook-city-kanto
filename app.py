@@ -1,5 +1,5 @@
 import json
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import streamlit as st
@@ -77,8 +77,8 @@ def main():
     # ---- 注意書き（文ごとに改行）----
     st.info(
         "\n\n".join([
+            "🔄 **データを再読み込み**：ページを開いた直後は古いデータが表示されることがあります。**開いたら一度押すのがおすすめです。**",
             "⚠️ 記事内に **Top8画像が存在しない店舗は表示されません**",
-            "⚠️ 表示が古い場合は、右の **「データを再読み込み」** を押すか、ページ再読み込み（R / F5）をしてください",
             "✅ 本ページは **ポケカブックさん** から **直近14日分** の **関東** のシティリーグ記事を抽出しています",
             "✅ データ更新は **1日1回 自動で行われます**",
         ])
@@ -109,8 +109,10 @@ def main():
         latest_str = "不明"
 
     # ★JSON最終更新（mtime表示）
+    # ※Streamlit Cloud はUTCで動くことが多いので、表示はJSTに寄せる
+    jst = timezone(timedelta(hours=9))
     json_updated_str = (
-        datetime.fromtimestamp(mtime).strftime("%Y-%m-%d %H:%M:%S")
+        datetime.fromtimestamp(mtime, tz=timezone.utc).astimezone(jst).strftime("%Y-%m-%d %H:%M:%S JST")
         if mtime > 0 else "不明"
     )
 
