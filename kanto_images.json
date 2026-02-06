@@ -1,6 +1,6 @@
 [
   {
-    "article_date": "2026-02-05",
+    "article_date": "2026-02-06",
     "page": "https://pokecabook.com/archives/290164",
     "title": "青馬堂矢向店（神奈川）",
     "pref": "神奈川",
@@ -18,7 +18,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-02-05",
+    "article_date": "2026-02-06",
     "page": "https://pokecabook.com/archives/290164",
     "title": "バトロコ　柏駅前（千葉）",
     "pref": "千葉",
@@ -36,7 +36,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-02-05",
+    "article_date": "2026-02-06",
     "page": "https://pokecabook.com/archives/290164",
     "title": "Card Secret（東京）",
     "pref": "東京",
@@ -54,7 +54,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-02-05",
+    "article_date": "2026-02-06",
     "page": "https://pokecabook.com/archives/290164",
     "title": "秋葉原チェルモ（東京）",
     "pref": "東京",
@@ -70,6 +70,42 @@
     ],
     "images_found": 16,
     "dup_same_page": false
+  },
+  {
+    "article_date": "2026-02-06",
+    "page": "https://pokecabook.com/archives/290164",
+    "title": "バトロコ　高田馬場（東京）",
+    "pref": "東京",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_FFFFbk-TGVgSe-bkkkV5.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_nN9n9g-FySmV1-9nLngg.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_8cGc8Y-4NGPMQ-4G4YDc.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_cDcx88-1weydu-88Y4GY.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_cY8Gcc-kATFTk-xDG88c.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_QnggH9-KYjaT1-NLggn9.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_9NngnQ-7lKMrx-gnnngH.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_nn9PgH-gRo9Rv-9ggHgn.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-02-06",
+    "page": "https://pokecabook.com/archives/290164",
+    "title": "Card Secret（東京）",
+    "pref": "東京",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_pypyy2-fzGnNc-yppRRp.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_gL9nnn-h0UXrx-NLN6gH.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_ggQnnn-eKjuCS-g9gHHg.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_RyypXX-3gXXaG-Uyy2Sp.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_6nNggQ-wc4QYp-9Qg9gn.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_kdkfvb-YDlfNE-kVfkFF.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_kFvbFf-Otufn8-kFbFFF.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_FkF5kF-Hwh2y6-kF5bbF.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": true
   },
   {
     "article_date": "2026-02-02",
