@@ -1,6 +1,6 @@
 [
   {
-    "article_date": "2026-02-18",
+    "article_date": "2026-02-19",
     "page": "https://pokecabook.com/archives/296271",
     "title": "TSUTAYA西友町田店（東京）",
     "pref": "東京",
@@ -18,7 +18,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-02-18",
+    "article_date": "2026-02-19",
     "page": "https://pokecabook.com/archives/296271",
     "title": "青馬堂矢向店（神奈川）",
     "pref": "神奈川",
@@ -36,7 +36,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-02-18",
+    "article_date": "2026-02-19",
     "page": "https://pokecabook.com/archives/296271",
     "title": "バトロコ　柏駅前（千葉）",
     "pref": "千葉",
@@ -54,7 +54,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-02-18",
+    "article_date": "2026-02-19",
     "page": "https://pokecabook.com/archives/296271",
     "title": "竜星のPAO　大宮店（埼玉）",
     "pref": "埼玉",
@@ -67,6 +67,24 @@
       "https://pokecabook.com/wp-content/uploads/1_6_888JcD-hiN7Ib-xx8YGG.jpg",
       "https://pokecabook.com/wp-content/uploads/1_7_FVVbFk-DhTYAw-kVfFdb.jpg",
       "https://pokecabook.com/wp-content/uploads/1_8_RpppME-WvXBf9-yMyppX.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-02-19",
+    "page": "https://pokecabook.com/archives/296271",
+    "title": "秋葉原チェルモ（東京）",
+    "pref": "東京",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_yERyXy-5aGBfc-pXyMXE.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_cxaYKc-5hK3Uz-xcG8Y8.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_pyMpRR-rhqEdT-p3pMMy.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_QnL9gN-h30mXc-g6Png9.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_bFfwFF-wE0nHI-kwFbkk.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_URXMyp-m6Md0i-pEyy3M.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_Png96L-iv78AO-HQngnn.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_pMpS2y-pYGblE-XyRS3M.jpg"
     ],
     "images_found": 16,
     "dup_same_page": false
