@@ -199,6 +199,24 @@
   },
   {
     "article_date": "2026-03-08",
+    "page": "https://pokecabook.com/archives/300703",
+    "title": "竜星のPAO　大宮店（埼玉）",
+    "pref": "埼玉",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_HngigN-e5bVqk-g9gQgN.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_X2Xyyp-dwn52v-E2pXR3.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_MUMypp-WJmxcD-XR2pMp.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_vbVF1k-SBbM2u-5kwvbk.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_yXEppE-H7rTnk-pRy2MU.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_gQHnLg-gdN3Y5-gNPiN9.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_REypyp-M44uGW-ypXM2y.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_vFbfVV-dCO55A-Fkkfd1.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-03-08",
     "page": "https://pokecabook.com/archives/299788",
     "title": "Duel Stade Ganryu　高崎店（群馬）",
     "pref": "群馬",
