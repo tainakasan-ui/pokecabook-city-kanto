@@ -1,6 +1,6 @@
 [
   {
-    "article_date": "2026-03-18",
+    "article_date": "2026-03-19",
     "page": "https://pokecabook.com/archives/303713",
     "title": "TSUTAYA西友町田店（東京）",
     "pref": "東京",
@@ -18,7 +18,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-03-18",
+    "article_date": "2026-03-19",
     "page": "https://pokecabook.com/archives/303713",
     "title": "ドラゴンスター秋葉原駅前店（東京）",
     "pref": "東京",
@@ -36,7 +36,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-03-18",
+    "article_date": "2026-03-19",
     "page": "https://pokecabook.com/archives/303713",
     "title": "青馬堂矢向店（神奈川）",
     "pref": "神奈川",
@@ -54,7 +54,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-03-18",
+    "article_date": "2026-03-19",
     "page": "https://pokecabook.com/archives/303713",
     "title": "バトロコ　柏駅前（千葉）",
     "pref": "千葉",
@@ -72,7 +72,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-03-18",
+    "article_date": "2026-03-19",
     "page": "https://pokecabook.com/archives/303713",
     "title": "Card Secret（東京）",
     "pref": "東京",
@@ -85,6 +85,24 @@
       "https://pokecabook.com/wp-content/uploads/1_6_x848DG-N0UHyY-acxDJx.jpg",
       "https://pokecabook.com/wp-content/uploads/1_7_MXEEXp-bqVWO1-XSXRyy.jpg",
       "https://pokecabook.com/wp-content/uploads/1_8_8aDcGc-hHP4ir-xac8Yx.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-03-19",
+    "page": "https://pokecabook.com/archives/303713",
+    "title": "ドラゴンスター町田店（東京）",
+    "pref": "東京",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_NLgLig-UGaFC3-9ngn9n.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_fbwVFk-1kzWuE-kFk1v5.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_nNNgLn-iGqxSv-gN9ggi.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_LQiNgn-8ll37P-99NiNn.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_gNHNgN-Pm9G9W-96iLnN.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_c8ccGc-0yIVUL-4KD4x8.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_8DKxDc-PHhG08-cGcacc.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_py3pRE-W3ytZg-XpyXMp.jpg"
     ],
     "images_found": 16,
     "dup_same_page": false
