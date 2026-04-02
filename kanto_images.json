@@ -1,6 +1,6 @@
 [
   {
-    "article_date": "2026-03-31",
+    "article_date": "2026-04-02",
     "page": "https://pokecabook.com/archives/307082",
     "title": "ドラゴンスター秋葉原駅前店（東京）",
     "pref": "東京",
@@ -15,6 +15,24 @@
       "https://pokecabook.com/wp-content/uploads/1_8_FFffFV-Y8FthL-kFfb5V.jpg"
     ],
     "images_found": 17,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-04-02",
+    "page": "https://pokecabook.com/archives/307082",
+    "title": "青馬堂矢向店（神奈川）",
+    "pref": "神奈川",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_ffFFVf-ricFWx-bFkVFk.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_9NnLgg-Iz3Q9g-NNNnQg.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_F5bkfb-FMu5HF-ffkfFw.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_51VFfV-ZTjNH4-kVbFwf.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_pXRXpM-3agJyV-py22yy.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_F5FwbV-6l95Pk-5kbkff.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_inNNg9-RlO5fo-NQgnnN.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_bFFfkf-Xg46Mj-kVbdf5.jpg"
+    ],
+    "images_found": 16,
     "dup_same_page": false
   },
   {
