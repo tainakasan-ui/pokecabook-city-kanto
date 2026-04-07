@@ -1,6 +1,6 @@
 [
   {
-    "article_date": "2026-04-06",
+    "article_date": "2026-04-07",
     "page": "https://pokecabook.com/archives/309488",
     "title": "秋葉原チェルモ（東京）",
     "pref": "東京",
@@ -13,6 +13,24 @@
       "https://pokecabook.com/wp-content/uploads/1_6_YcYGc4-e2V12d-84Y8c8.jpg",
       "https://pokecabook.com/wp-content/uploads/1_7_9HgLgH-w4Vqkd-nH9gNg.jpg",
       "https://pokecabook.com/wp-content/uploads/1_8_MypR2S-rKmAZe-ppRpX2.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-04-07",
+    "page": "https://pokecabook.com/archives/309488",
+    "title": "バトロコ　柏駅前（千葉）",
+    "pref": "千葉",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_Up2yEy-ZWxyVw-MRpMpS.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_4GcxJY-2mM3Rk-G8cc4D.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_yyRpEp-72CTnI-ypyS2R.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_V5Fkb5-2hSuol-Fb5kFk.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_gHg9gg-fVcSpj-iH9nin.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_ggngLH-NOAqMr-ggnP99.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_8x4c44-TloDIw-cGccJa.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_RMXpX2-yDQqi4-Ryyyyp.jpg"
     ],
     "images_found": 16,
     "dup_same_page": false
@@ -625,150 +643,6 @@
       "https://pokecabook.com/wp-content/uploads/06-20.jpg",
       "https://pokecabook.com/wp-content/uploads/07-20.jpg",
       "https://pokecabook.com/wp-content/uploads/08-20.jpg"
-    ],
-    "images_found": 16,
-    "dup_same_page": false
-  },
-  {
-    "article_date": "2026-03-23",
-    "page": "https://pokecabook.com/archives/305496",
-    "title": "バトロコ　柏駅前（千葉）",
-    "pref": "千葉",
-    "images_top8": [
-      "https://pokecabook.com/wp-content/uploads/1_1_cx8Y8x-8ykNIx-88xGDD.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_2_nnN9Ln-XJCClA-QnNgQL.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_3_LnN9n9-zZi2yS-Ngnnnn.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_4_x8GDYG-fSnhb3-c88K8c.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_5_XyRpRM-T4IUZ9-MpXyRy.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_6_ypRyRX-80JXI6-ESppyM.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_7_ypXUEy-XBlTV4-SyMp3R.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_8_8Gx8G8-T6OrDy-8cDaac.jpg"
-    ],
-    "images_found": 16,
-    "dup_same_page": false
-  },
-  {
-    "article_date": "2026-03-23",
-    "page": "https://pokecabook.com/archives/305496",
-    "title": "Wonder GOO　足利店（栃木）",
-    "pref": "栃木",
-    "images_top8": [
-      "https://pokecabook.com/wp-content/uploads/1_1_kv5Vvb-JYv2Gm-FfkfVk.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_2_vFfkFw-Qxo4o3-bkfbFV.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_3_y2yREX-TWzrRQ-ypMyMp.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_4_Xp3M2y-60r8fN-MMRyy3.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_5_Q9nNL9-kuvFqq-nNgn9g.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_6_p2yRSM-33w1LB-ySXyMS.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_7_yXy3My-bZlrJd-pRpMXy.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_8_4DxGD8-jdYlIn-8cG8Kx.jpg"
-    ],
-    "images_found": 16,
-    "dup_same_page": false
-  },
-  {
-    "article_date": "2026-03-23",
-    "page": "https://pokecabook.com/archives/305496",
-    "title": "Duel Stade Ganryu　ひたち野うしく店（茨城）",
-    "pref": "茨城",
-    "images_top8": [
-      "https://pokecabook.com/wp-content/uploads/1_1_bVV5Fw-PkvMog-vbk5kf.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_2_ngnnNP-MNFFVc-ngQ9Lg.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_3_c88G8D-XhF6WN-x8G8cJ.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_4_xJGc4J-JvLFxy-c8JKcD.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_5_XyXSyS-I8iq7S-UyMpyR.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_6_ggnNnL-rVDCbo-N9PLLi.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_7_XMXRMy-lIXd54-ypySpp.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_8_FkVvkw-ittEob-5bffFk.jpg"
-    ],
-    "images_found": 16,
-    "dup_same_page": false
-  },
-  {
-    "article_date": "2026-03-23",
-    "page": "https://pokecabook.com/archives/305496",
-    "title": "カードショップ裁龍（茨城）",
-    "pref": "茨城",
-    "images_top8": [
-      "https://pokecabook.com/wp-content/uploads/1_1_MyXXpR-WPC4YO-MyR2py.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_2_84cGDK-jbpBrY-848c8D.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_3_Jc8Y8G-bW5tpt-ccc88D.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_4_NnLnn9-UtVKgF-L9QnLg.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_5_Y8xG8J-FQLB6W-cGD8xD.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_6_bkkkFF-QMyZGQ-VVwkfF.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_7_XyyypM-cuCc74-pyXpXR.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_8_Vbfkkf-4xozzI-vbfkVF.jpg"
-    ],
-    "images_found": 16,
-    "dup_same_page": false
-  },
-  {
-    "article_date": "2026-03-23",
-    "page": "https://pokecabook.com/archives/305496",
-    "title": "バトロコミニ前橋文京店（群馬）",
-    "pref": "群馬",
-    "images_top8": [
-      "https://pokecabook.com/wp-content/uploads/1_1_gHNgn9-mN8KUt-gngnQL.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_2_NgHnLN-7paxju-N9Hnin.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_3_k15vfF-gRLEDT-fkVVbk.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_4_yRpMy3-HJnPIC-XyXyyR.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_5_K4YDxc-0TYWjo-8Gxx88.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_6_c8YGJx-l8lFxB-8Yx8DD.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_7_gQHnin-SIErMt-n9NnNL.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_8_fbbk5F-7e0YZm-kdVkVf.jpg"
-    ],
-    "images_found": 16,
-    "dup_same_page": false
-  },
-  {
-    "article_date": "2026-03-23",
-    "page": "https://pokecabook.com/archives/305496",
-    "title": "バトロコ　川越駅前（埼玉）",
-    "pref": "埼玉",
-    "images_top8": [
-      "https://pokecabook.com/wp-content/uploads/1_1_VkFkVf-TQvKVB-bkbf1k.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_2_ypypER-r7HKZo-XySMXp.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_3_c88DYK-h7TRNx-c888YG.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_4_GcxDc8-UlEJDG-cc888c.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_5_VkFFkk-3YtX3J-kVfbFV.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_6_RXy2yM-lRZ9dl-MpMyXp.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_7_yMXypR-uK8FQu-2yRpXy.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_8_RMp22E-DOeQtN-yyXUM2.jpg"
-    ],
-    "images_found": 16,
-    "dup_same_page": false
-  },
-  {
-    "article_date": "2026-03-23",
-    "page": "https://pokecabook.com/archives/305496",
-    "title": "竜星のPAO　大宮店（埼玉）",
-    "pref": "埼玉",
-    "images_top8": [
-      "https://pokecabook.com/wp-content/uploads/1_1_FVvfFV-PKIUyi-kbkVkb.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_2_48x8cG-O3kU33-D8ccxc.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_3_gnNLQH-FmrKzn-9NPNg6.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_4_8DcG8x-lUOyQt-cK8GcD.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_5_8xcYG8-Viwr1a-Dxc488.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_6_DxGx48-FFMLh0-c8Dxx4.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_7_kfVVvk-bjJJeM-dkbfFf.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_8_NnQ9gN-YgYWpT-nnNn9g.jpg"
-    ],
-    "images_found": 16,
-    "dup_same_page": false
-  },
-  {
-    "article_date": "2026-03-23",
-    "page": "https://pokecabook.com/archives/305496",
-    "title": "チェルモサード（神奈川）",
-    "pref": "神奈川",
-    "images_top8": [
-      "https://pokecabook.com/wp-content/uploads/1_1_kfbvFF-1L4iDI-V1kvfk.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_2_NLn69n-2mfZtU-LnngNH.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_3_y2pMyy-Z0fP9e-MyRXMU.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_4_kkbVFV-vR605D-w51Fkf.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_5_bVFkff-IkmVS1-VkfkkF.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_6_VFdbkv-hf07vT-fFVkVk.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_7_yXyXpM-YmQZ4J-2SURyy.jpg",
-      "https://pokecabook.com/wp-content/uploads/1_8_kk5F1b-biwqCW-FkFbkf.jpg"
     ],
     "images_found": 16,
     "dup_same_page": false
