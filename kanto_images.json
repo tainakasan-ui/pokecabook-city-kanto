@@ -1,6 +1,6 @@
 [
   {
-    "article_date": "2026-04-16",
+    "article_date": "2026-04-17",
     "page": "https://pokecabook.com/archives/312276",
     "title": "秋葉原チェルモ（東京）",
     "pref": "東京",
@@ -18,7 +18,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-16",
+    "article_date": "2026-04-17",
     "page": "https://pokecabook.com/archives/312276",
     "title": "ドラゴンスター秋葉原駅前店（東京）",
     "pref": "東京",
@@ -36,7 +36,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-16",
+    "article_date": "2026-04-17",
     "page": "https://pokecabook.com/archives/312276",
     "title": "青馬堂矢向店（神奈川）",
     "pref": "神奈川",
@@ -54,7 +54,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-16",
+    "article_date": "2026-04-17",
     "page": "https://pokecabook.com/archives/312276",
     "title": "バトロコ　柏駅前（千葉）",
     "pref": "千葉",
@@ -72,7 +72,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-16",
+    "article_date": "2026-04-17",
     "page": "https://pokecabook.com/archives/312276",
     "title": "竜星のPAO　大宮店（埼玉）",
     "pref": "埼玉",
@@ -90,7 +90,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-16",
+    "article_date": "2026-04-17",
     "page": "https://pokecabook.com/archives/312276",
     "title": "秋葉原チェルモ（東京）",
     "pref": "東京",
@@ -108,7 +108,7 @@
     "dup_same_page": true
   },
   {
-    "article_date": "2026-04-16",
+    "article_date": "2026-04-17",
     "page": "https://pokecabook.com/archives/312276",
     "title": "ドラゴンスター町田店（東京）",
     "pref": "東京",
@@ -121,6 +121,42 @@
       "https://pokecabook.com/wp-content/uploads/1_6_gnng9H-IqO0iD-H9LggL.jpg",
       "https://pokecabook.com/wp-content/uploads/1_7_4cGYGx-COhPV4-J8DGcc.jpg",
       "https://pokecabook.com/wp-content/uploads/1_8_kFvVVV-aOCnkj-bkF5fw.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-04-17",
+    "page": "https://pokecabook.com/archives/312276",
+    "title": "竜星のPAO　立川店（東京）",
+    "pref": "東京",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_M2RSUX-IbNJBN-yMpERy.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_Fkbbv5-X5qi9F-kkVbk5.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_V5bvbv-MuD6Qm-kFFw5V.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_LQgn9L-plkEZO-9LH9nn.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_ppS2ER-FT3pxz-yRMpMy.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_kF5b5b-AMkMfP-VVkdfk.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_48K8Y8-QKEHGv-8YGxGc.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_x848cJ-MdbhAr-JDG8Jc.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-04-17",
+    "page": "https://pokecabook.com/archives/312276",
+    "title": "ドラゴンスター池袋店（東京）",
+    "pref": "東京",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_x8cxJ4-MkNafE-8Gc8cx.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_ccD84Y-6zktlm-GxJYxx.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_2MSyRp-38H8BQ-URRMpy.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_bkdbF5-ttJXly-kFVFkk.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_G4xc4J-5VFIyk-8D8KGD.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_8ccDGc-N6UqCl-4x4cJ4.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_c48cxx-YLAhzP-J8G8Dx.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_3MRpXR-wTKv9l-ppyXy2.jpg"
     ],
     "images_found": 16,
     "dup_same_page": false
