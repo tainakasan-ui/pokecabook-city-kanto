@@ -1,6 +1,24 @@
 [
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
+    "page": "https://pokecabook.com/archives/315106",
+    "title": "バトロコ　柏駅前（千葉）",
+    "pref": "千葉",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_k1bkFF-jXBA13-Vf15dF.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_kV5bkF-DHxY3I-k5kFf1.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_9nnngn-N6e5ye-6HHggQ.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_Fbk51F-wCDCNo-FkbFfk.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_5vFVkf-3IHUNT-VbkvFF.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_SpXRyy-xMgXtr-pE2XXX-1.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_ggnnQL-mNFBhL-gggH9n.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_yUyMMp-0mlOXo-2RRSpp.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "ブックオフ ららぽーとTOKYO-BAY（千葉）",
     "pref": "千葉",
@@ -18,7 +36,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "バトロコ　柏駅前（千葉）",
     "pref": "千葉",
@@ -36,7 +54,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "バトロコ　小山駅前（栃木）",
     "pref": "栃木",
@@ -54,7 +72,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "BOOKOFF 立川駅北口店（東京）",
     "pref": "東京",
@@ -72,7 +90,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "BOOKOFF 松戸駅東口店（千葉）",
     "pref": "千葉",
@@ -90,7 +108,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "BOOKOFFノースポート・モール店（神奈川）",
     "pref": "神奈川",
@@ -108,7 +126,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "BOOKOFF　イオン橋本（神奈川）",
     "pref": "神奈川",
@@ -126,7 +144,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "BOOKOFFアミューあつぎ店（神奈川）",
     "pref": "神奈川",
@@ -144,7 +162,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "ブックオフ武蔵小金井（東京）",
     "pref": "東京",
@@ -162,7 +180,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "カードショップ裁龍（茨城）",
     "pref": "茨城",
@@ -180,7 +198,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "Duel Stade Ganryu　ひたち野うしく店（茨城）",
     "pref": "茨城",
@@ -198,7 +216,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "TSUTAYA嵐山店（埼玉）",
     "pref": "埼玉",
@@ -216,7 +234,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "バトロコミニ前橋文京店（群馬）",
     "pref": "群馬",
@@ -234,7 +252,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "ブックオフ多摩永山（東京）",
     "pref": "東京",
@@ -252,7 +270,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "バトロコ　横浜伊勢佐木町（神奈川）",
     "pref": "神奈川",
@@ -270,7 +288,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "バトロコ　新津田沼駅前（千葉）",
     "pref": "千葉",
@@ -288,7 +306,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "フルコンプ　八王子本店（東京）",
     "pref": "東京",
@@ -306,7 +324,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "カードショップリドル京急蒲田店（東京）",
     "pref": "東京",
@@ -324,7 +342,7 @@
     "dup_same_page": false
   },
   {
-    "article_date": "2026-04-19",
+    "article_date": "2026-04-21",
     "page": "https://pokecabook.com/archives/313809",
     "title": "チェルモサード（神奈川）",
     "pref": "神奈川",
