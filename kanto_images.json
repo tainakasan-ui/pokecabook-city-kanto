@@ -1,6 +1,6 @@
 [
   {
-    "article_date": "2026-04-21",
+    "article_date": "2026-04-23",
     "page": "https://pokecabook.com/archives/315106",
     "title": "バトロコ　柏駅前（千葉）",
     "pref": "千葉",
@@ -13,6 +13,24 @@
       "https://pokecabook.com/wp-content/uploads/1_6_SpXRyy-xMgXtr-pE2XXX-1.jpg",
       "https://pokecabook.com/wp-content/uploads/1_7_ggnnQL-mNFBhL-gggH9n.jpg",
       "https://pokecabook.com/wp-content/uploads/1_8_yUyMMp-0mlOXo-2RRSpp.jpg"
+    ],
+    "images_found": 16,
+    "dup_same_page": false
+  },
+  {
+    "article_date": "2026-04-23",
+    "page": "https://pokecabook.com/archives/315106",
+    "title": "秋葉原チェルモ（東京）",
+    "pref": "東京",
+    "images_top8": [
+      "https://pokecabook.com/wp-content/uploads/1_1_xDDc8c-ktKWNB-xY4c8G.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_2_8ccYGc-uCxW34-484D8c.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_3_SMX22U-RYbnah-yMRppy.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_4_Eyy222-moHnAG-yM2Rpp.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_5_dkb5Fk-KWaw0J-FvkFkf.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_6_6H9gnH-W9bqTv-NngnHg.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_7_HHnnng-QxLkjw-n9nQNH.jpg",
+      "https://pokecabook.com/wp-content/uploads/1_8_MXpXyR-MLv9Rj-pSyy2p.jpg"
     ],
     "images_found": 16,
     "dup_same_page": false
